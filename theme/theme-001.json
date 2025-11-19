@@ -1,0 +1,8 @@
+{
+      "font_size": 30,
+      "font_color": "white",
+      "font_position": ["center", "center"],
+      "font_fade_in": 1.0,
+      "font_fade_out": 1.0,
+      "background": "black"
+}
