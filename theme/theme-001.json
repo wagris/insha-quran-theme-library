@@ -1,8 +1,12 @@
 {
-      "font_size": 30,
-      "font_color": "white",
-      "font_position": ["center", "center"],
-      "font_fade_in": 1.0,
-      "font_fade_out": 1.0,
-      "background": "black"
+  "background_type": "color",
+  "background_value": "black",
+  "style": {
+    "font_family": "QCF_P266",
+    "font_size": "48",
+    "font_color": "white",
+    "shadow_color": "black@0.6",
+    "shadow_offset": 2.0,
+    "box_color": "transparent"
+  }
 }
