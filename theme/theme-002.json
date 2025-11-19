@@ -1,0 +1,12 @@
+{
+  "background_type": "color",
+  "background_value": "black",
+  "style": {
+    "font_family": "Arial",
+    "font_size": "48",
+    "font_color": "white",
+    "shadow_color": "black@0.6",
+    "shadow_offset": 2.0,
+    "box_color": "transparent"
+  }
+}
