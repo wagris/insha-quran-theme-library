@@ -3,10 +3,11 @@
   "background_value": "black",
   "style": {
     "font_family": "QCF_P266",
-    "font_size": "48",
+    "font_size": "28",
     "font_color": "white",
     "shadow_color": "black@0.6",
     "shadow_offset": 2.0,
     "box_color": "transparent"
   }
 }
+
