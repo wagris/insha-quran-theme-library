@@ -1,6 +1,6 @@
 {
   "background_type": "video",
-  "background_value": "https://wagris.github.io/insha-quran-theme-library/assets/videos/bg1.mp4",
+  "background_value": "https://wagris.github.io/insha-quran-theme-library/footage/bg1.mp4",
   "style": {
     "font_family": "QCF_P001",
     "font_size": "48",
@@ -10,3 +10,4 @@
     "box_color": "transparent"
   }
 }
+
