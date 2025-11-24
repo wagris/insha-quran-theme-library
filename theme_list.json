@@ -1,12 +1,15 @@
 [
   {
     "title": "theme-001",
-    "url": "https://wagris.github.io/insha-quran-theme-library/theme/theme-001.json"
+    "url": "https://wagris.github.io/insha-quran-theme-library/theme/theme-001.json",
+    "thumbnail_url": "https://wagris.github.io/insha-quran-theme-library/thumbnails/theme-001.jpg"
   },
   {
     "title": "theme-002",
-    "url": "https://wagris.github.io/insha-quran-theme-library/theme/theme-002.json"
+    "url": "https://wagris.github.io/insha-quran-theme-library/theme/theme-002.json",
+    "thumbnail_url": "https://wagris.github.io/insha-quran-theme-library/thumbnails/theme-002.jpg"
   }
 
 ]
+
 
