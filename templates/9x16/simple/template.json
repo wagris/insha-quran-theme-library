@@ -1,0 +1,14 @@
+{
+  "background_path": "https://raw.githubusercontent.com/wagris/insha-quran-theme-library/main/templates/16x9/simpler/preview.mp4",
+
+  "clips": [
+    {
+      "text_overlay": {
+        "font_size": 30,
+        "color": "white"
+      },
+
+      "text_fade": "1.0"
+    }
+  ]
+}
